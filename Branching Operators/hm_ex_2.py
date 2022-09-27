@@ -28,3 +28,6 @@ elif choice == 3:
     print(f'The arithmetical mean is {(number_1 + number_2 + number_3) // 3}')
 else:
     print(f' Error, something is wrong with your choice')
+
+    
+    its wrong choice you say no to marry please marry me thank you 
